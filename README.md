@@ -6,3 +6,5 @@ Dieses Tutorial fokussiert sich auf Git und die Benutzung von Github als Remote.
 Dieses Repository wird Schritt für Schritt anhand des Tutorials aufgebaut.
 
 Es enthält jetzt Schritte für Github.
+
+Das ist eine neue Beispiel-Zeile.
